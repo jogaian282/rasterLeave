@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -25,6 +24,3 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
-=======
-# rasterLeave
->>>>>>> 5215944e485ee2f63a9647fd33fefe0365a841ff
